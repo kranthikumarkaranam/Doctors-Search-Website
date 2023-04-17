@@ -1,0 +1,19 @@
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-reem-kufi: "Reem Kufi";
+
+  /* font sizes */
+  --font-size-2xs: 16px;
+  --font-size-xs: 18px;
+  --font-size-sm: 24px;
+  --font-size-base: 35px;
+  --font-size-lg: 36px;
+
+  /* Colors */
+  --color-aliceblue: #f3f8fe;
+  --color-black: #000;
+  --color-gray-100: #030000;
+  --color-gainsboro: #d9d9d9;
+  --color-darkslategray: #3f444a;
+}
