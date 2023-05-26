@@ -64,6 +64,7 @@ Here are some key features of our Doctors Search Website:
 
 Technologies used in the project:
 
+* Figma
 * HTML5
 * CSS3
 * ES6+ JavaScript
